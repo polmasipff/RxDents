@@ -1,0 +1,22 @@
+# First public-data prototype: DENTEX panoramic X-rays
+# Install with: python -m pip install -r requirements.txt
+
+# Deep learning
+torch
+torchvision
+
+# Images and visualisation
+pillow
+matplotlib
+
+# Data handling and evaluation
+numpy
+pandas
+scikit-learn
+
+# Notebook support in VS Code
+jupyter
+ipykernel
+
+# Optional but useful progress bars
+tqdm

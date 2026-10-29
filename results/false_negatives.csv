@@ -1,0 +1,6 @@
+dataset_index,file_name,best_iou_any_prediction,best_score_any_prediction,reason
+19,val_41.png,0.0,0.06375628709793091,cap proposta propera
+19,val_41.png,0.9146117568016052,0.06375628709793091,"bona box, però score sota el threshold"
+28,val_1.png,0.94178307056427,0.39168766140937805,"bona box, però score sota el threshold"
+40,val_9.png,0.812900960445404,0.10436122119426727,"bona box, però score sota el threshold"
+49,val_0.png,0.0,,cap proposta propera

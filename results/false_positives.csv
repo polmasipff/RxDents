@@ -1,0 +1,16 @@
+dataset_index,file_name,score,best_iou,reason
+23,val_18.png,0.8729302883148193,0.0,sense cap GT a la imatge
+24,val_13.png,0.9904628396034241,0.0,sense cap GT a la imatge
+24,val_13.png,0.9860287308692932,0.0,sense cap GT a la imatge
+24,val_13.png,0.9834439754486084,0.0,sense cap GT a la imatge
+24,val_13.png,0.9734477400779724,0.0,sense cap GT a la imatge
+26,val_49.png,0.9696632027626038,0.0,sense cap GT a la imatge
+29,val_43.png,0.5836259722709656,0.0,sense cap GT a la imatge
+41,val_4.png,0.9934666752815247,0.0,sense cap GT a la imatge
+41,val_4.png,0.9899041056632996,0.0,sense cap GT a la imatge
+41,val_4.png,0.985765814781189,0.0,sense cap GT a la imatge
+41,val_4.png,0.9829993844032288,0.0,sense cap GT a la imatge
+44,val_35.png,0.6000515818595886,0.0,sense cap GT a la imatge
+46,val_12.png,0.9195486903190613,0.0,sense GT propera
+47,val_7.png,0.8094421625137329,0.0,sense GT propera
+47,val_7.png,0.5499071478843689,0.0,sense GT propera

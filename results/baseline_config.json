@@ -1,0 +1,9 @@
+{
+    "checkpoint": "models\\fasterrcnn_impacted_aug_best.pt",
+    "checkpoint_epoch": 8,
+    "score_threshold": 0.5,
+    "matching_iou_threshold": 0.5,
+    "detector": "Faster R-CNN ResNet50 FPN",
+    "target_class": "impacted",
+    "validation_images": 50
+}

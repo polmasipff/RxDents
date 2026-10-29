@@ -1,0 +1,2 @@
+score_threshold,iou_threshold,tp,fp,fn,precision,recall,f1
+0.5,0.5,35,15,5,0.7,0.875,0.7777777777777777

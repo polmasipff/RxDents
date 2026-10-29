@@ -1,0 +1,18 @@
+1_explore.ipynb
+2_exploring_pathology.ipynb
+gradcam_comparison.ipynb
+impact_detector_01.ipynb
+impact_detector_02.ipynb
+impact_detector_03_augm.ipynb
+proba collage amb anotacions.png
+requirements.txt
+results\average_precision_by_iou.csv
+results\baseline_config.json
+results\baseline_summary.csv
+results\false_negatives.csv
+results\false_positives.csv
+results\matched_detections.csv
+results\per_image_detection_results.csv
+training_101.ipynb
+training_2.ipynb
+training_fine_tuning.ipynb
